@@ -1,7 +1,5 @@
 # Hi, I'm Larry (Peilin) Zhong 👋
 
-Computational neuroscience
-
 <p align="left">
   <a href="https://github.com/Larryzpl123">
     <img
