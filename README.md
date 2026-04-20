@@ -1,5 +1,9 @@
 Hi!
 
+![Stats-api](imgs/api.svg)
+![Stats-stats](imgs/github-readme-stats.vercel.svg)
+![Stats-streak](imgs/github-readme-streak-stats.herokuapp.svg)
+
 <!--
 **Larryzpl123/Larryzpl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
