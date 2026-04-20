@@ -26,14 +26,13 @@
 
 <p align="left">
   <img
-    src="https://github-profile-trophy-fork-two.vercel.app/?username=Larryzpl123&theme=gruvbox&no-frame=true&row=1&column=7"
-    alt="Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Larryzpl123&theme=react-dark&hide_border=true&bg_color=273849&color=41b883&line=41b883&point=ffffff"
+    alt="Larry's Recent Contribution Activity Graph"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Larryzpl123&theme=react-dark&hide_border=true&bg_color=273849&color=41b883&line=41b883&point=ffffff"
-    alt="Larry's Recent Contribution Activity Graph"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=Larryzpl123&theme=gruvbox&no-frame=true&row=1&column=7"
   />
 </p>
