@@ -34,5 +34,6 @@
 <p align="left">
   <img
     src="https://github-profile-trophy-fork-two.vercel.app/?username=Larryzpl123&theme=gruvbox&no-frame=true&row=1&column=7"
+    alt="Trophies"
   />
 </p>
