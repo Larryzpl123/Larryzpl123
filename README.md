@@ -1,8 +1,8 @@
 Hi!
 
 <img src="imgs/api.svg" alt="Stats-api" width="369"> 
-<img src="imgs/github-readme-stats.vercel.svg" alt="Stats-stats" width="369"> 
 <img src="imgs/github-readme-streak-stats.herokuapp.svg" alt="Stats-streak" width="369"> 
+<img src="imgs/github-readme-stats.vercel.svg" alt="Stats-stats" width="369"> 
 
 <!--
 **Larryzpl123/Larryzpl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
