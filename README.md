@@ -1,14 +1,12 @@
 # Hi, I'm Larry (Peilin) Zhong 👋
 <p align="left"> 
   <a href="https://github.com/Larryzpl123">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Larryzpl123&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Larry's GitHub Stats" />
+aaaaa
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/Larryzpl123">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larryzpl123&layout=compact&theme=vue&hide_border=true&langs_count=8"
-      alt="Most Used Languages"
+aaaaa
     />
   </a>
   <a href="https://git.io/streak-stats">
