@@ -12,7 +12,7 @@
 
 <!-- Row 2: Streak (a little left) -->
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Larryzpl123&theme=vue&hide_border=true" alt="GitHub Streak" />
   </a>
