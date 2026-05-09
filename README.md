@@ -1,5 +1,7 @@
 # Hi, I'm Larry (Peilin) Zhong 👋
 
+[About me](http://larryzpl123.github.io/me/)
+
 <!-- Row 1: Stats + Languages -->
 <p align="left">
   <a href="https://github.com/Larryzpl123">
